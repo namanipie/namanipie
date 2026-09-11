@@ -1,16 +1,36 @@
-## Hi there 👋
+# hey, i'm naman.
 
-<!--
-**namanipie/namanipie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i build things, break things, and occasionally figure out why they broke.
 
-Here are some ideas to get you started:
+currently studying computer science and spending an unreasonable amount of time making software do things it was probably not designed to do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### currently
+
+* learning **Java, DSA & software development**
+* building and experimenting with **personal projects**
+* figuring out what I actually want to build next
+* trying to write code that doesn't need an apology attached to it
+
+### things i work with
+
+`Java` `C` `Python` `JavaScript` `Git` `GitHub`
+
+### projects
+
+**[Academia](#)**
+A project I'm actively building and improving.
+
+**More coming...**
+I tend to start things before deciding what they're supposed to become.
+
+### github
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://git.io/streak-stats)
+
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+
+---
+
+*still figuring it out.*
