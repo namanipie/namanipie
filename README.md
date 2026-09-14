@@ -85,6 +85,24 @@ that seemed worth building.
 
 <div align="center">
 
+
+<br><br>
+
+<div align="center">
+
+## github activity
+
+<br>
+
+<img
+  src="https://raw.githubusercontent.com/namanipie/namanipie/main/profile/streak.svg"
+  alt="GitHub streak statistics"
+  width="500">
+
+</div>
+
+<br><br>
+
 ## contribution graph
 
 <br>
