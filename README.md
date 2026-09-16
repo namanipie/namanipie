@@ -6,11 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=19&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=700&height=45&lines=computer+science+student;building+things;learning+Java+%26+DSA;turning+ideas+into+projects" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <sub>computer science · software · projects · curiosity</sub>
 
@@ -51,7 +47,7 @@ a little less painful.
 
 <br>
 
-<a href="https://github.com/namanipie">
+<a href="https://github.com/namanipie/Academia">
 <b>→ explore</b>
 </a>
 
@@ -59,7 +55,7 @@ a little less painful.
 
 <td width="50%" align="center">
 
-<h3>experiments</h3>
+<h3>Experiments</h3>
 
 <p>
 Small projects, experiments and ideas
@@ -85,23 +81,22 @@ that seemed worth building.
 
 <div align="center">
 
-
-<br><br>
-
-<div align="center">
-
 ## github activity
 
 <br>
 
 <img
-  src="https://raw.githubusercontent.com/namanipie/namanipie/main/profile/streak.svg"
+  src="./profile/streak.svg"
   alt="GitHub streak statistics"
   width="500">
 
 </div>
 
 <br><br>
+
+---
+
+<div align="center">
 
 ## contribution graph
 
@@ -110,17 +105,17 @@ that seemed worth building.
 <picture>
 
 <source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake-dark.svg">
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake-dark.svg">
 
 <source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake.svg">
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake.svg">
 
 <img
-src="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake.svg"
-alt="GitHub contribution snake"
-width="96%">
+  src="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake.svg"
+  alt="GitHub contribution snake"
+  width="96%">
 
 </picture>
 
@@ -128,11 +123,21 @@ width="96%">
 
 <br><br>
 
+---
+
 <div align="center">
 
-### currently
+## currently
 
-`Java` · `DSA` · `software development` · `Linux`
+<br>
+
+<code>Java</code>
+&nbsp;·&nbsp;
+<code>DSA</code>
+&nbsp;·&nbsp;
+<code>software development</code>
+&nbsp;·&nbsp;
+<code>Linux</code>
 
 </div>
 
@@ -140,6 +145,6 @@ width="96%">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F766E,50:312E81,100:111827&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F766E,50:312E81,100:111827&animation=fadeIn" width="100%"/>
 
 </div>
