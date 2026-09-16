@@ -2,16 +2,16 @@
 
 # namanipie
 
-<sub>building software, breaking things, and figuring out how they work.</sub>
+`cs student` · `building things` · `breaking things`
 
-<br><br>
+<br>
 
-<a href="https://namanipie.dev">
-  <img src="https://img.shields.io/badge/website-0d1117?style=flat-square&logo=googlechrome&logoColor=67e8f9&labelColor=0d1117" />
+<a href="https://namanipie.github.io/namanio/">
+  <img src="https://img.shields.io/badge/website-111111?style=for-the-badge&logo=googlechrome&logoColor=ffffff" />
 </a>
 &nbsp;
 <a href="https://github.com/namanipie?tab=repositories">
-  <img src="https://img.shields.io/badge/projects-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/projects-111111?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
 </div>
@@ -22,72 +22,47 @@
 
 <div align="center">
 
-## what i'm building
+## things i'm building
 
 </div>
-
-<br>
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
-
-### ExamScope
-
-A system for turning years of exam papers and study material into something actually useful.
-
-**focus**
-
-`data pipelines`  
-`document processing`  
-`search`  
-`prediction`
-
-<br>
-
-<a href="https://github.com/namanipie/ExamScope">
-→ view project
-</a>
-
-</td>
-
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### MarkMint
 
-A project focused on making marks, academic data and results easier to understand.
+Exam intelligence built around past papers, study material, and academic data.
 
-**focus**
-
-`web`  
-`data`  
-`visualization`
+Currently working on the crawling, processing, question-family pipeline, and prediction system.
 
 <br>
 
-<a href="https://github.com/namanipie/MarkMint">
-→ view project
+`Python` `PostgreSQL` `data` `web`
+
+<br><br>
+
+<a href="https://github.com/namanipie/markmint">
+→ github
 </a>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Console
 
-A collection of experiments, tools and things I'm building while figuring out what deserves to become a real project.
-
-**focus**
-
-`software`  
-`experiments`  
-`learning`
+A student-focused dashboard that pulls institutional data, handles local caching, visualizes attendance, and sends notifications.
 
 <br>
 
-<a href="https://github.com/namanipie/Console">
-→ view project
+`Flutter` `Dart` `Firebase` `Python`
+
+<br><br>
+
+<a href="https://github.com/namanipie">
+→ github
 </a>
 
 </td>
@@ -99,14 +74,16 @@ A collection of experiments, tools and things I'm building while figuring out wh
 
 <div align="center">
 
-<a href="https://namanipie.dev">
+### more
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="85%">
+<a href="https://namanipie.github.io/namanio/">
+my website
+</a>
 
-<br>
+&nbsp;&nbsp;·&nbsp;&nbsp;
 
-**more about me → namanipie.dev**
-
+<a href="https://github.com/namanipie?tab=repositories">
+all repositories
 </a>
 
 </div>
@@ -117,11 +94,11 @@ A collection of experiments, tools and things I'm building while figuring out wh
 
 <div align="center">
 
-## tools i use
+## stack
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,git,github,linux,vscode&theme=dark&perline=10">
+<img src="https://skillicons.dev/icons?i=java,c,python,dart,flutter,js,html,css,git,github,linux,vscode&theme=dark&perline=12" />
 
 </div>
 
@@ -131,14 +108,15 @@ A collection of experiments, tools and things I'm building while figuring out wh
 
 <div align="center">
 
-## contributions
+## github
 
 <br>
 
 <img
-src="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub contribution snake"
-width="90%">
+  src="./profile/streak.svg"
+  alt="GitHub streak"
+  width="480"
+/>
 
 </div>
 
@@ -147,10 +125,10 @@ width="90%">
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake.svg"
-alt="GitHub contribution snake"
-width="90%"
-style="display:none;">
+  src="https://raw.githubusercontent.com/namanipie/namanipie/output/contributions.svg"
+  alt="GitHub contributions"
+  width="92%"
+/>
 
 </div>
 
@@ -158,6 +136,20 @@ style="display:none;">
 
 <div align="center">
 
-<sub>building in public · one commit at a time</sub>
+<img
+  src="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub contribution snake"
+  width="92%"
+/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<sub>building in public · 2026</sub>
 
 </div>
