@@ -1,71 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=namanipie&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn&color=0:111827,50:312E81,100:0F766E" width="100%"/>
+# namanipie
+
+<sub>building software, breaking things, and figuring out how they work.</sub>
+
+<br><br>
+
+<a href="https://namanipie.dev">
+  <img src="https://img.shields.io/badge/website-0d1117?style=flat-square&logo=googlechrome&logoColor=67e8f9&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/namanipie?tab=repositories">
+  <img src="https://img.shields.io/badge/projects-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d1117" />
+</a>
+
+</div>
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=19&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=700&height=45&lines=computer+science+student;building+things;learning+Java+%26+DSA;turning+ideas+into+projects" />
-
-<br><br>
-
-<sub>computer science · software · projects · curiosity</sub>
-
-<br><br>
-
-I like building things, figuring out how they work,
-and occasionally breaking them in interesting ways.
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,git,github,vscode,linux&theme=dark&perline=10"/>
-
-</div>
-
-<br><br>
 
 ---
 
 <div align="center">
 
-## projects
+## what i'm building
+
+</div>
+
+<br>
 
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="33%" valign="top">
 
-<h3>Academia</h3>
+### ExamScope
 
-<p>
-A project I'm building to make academic life
-a little less painful.
-</p>
+A system for turning years of exam papers and study material into something actually useful.
+
+**focus**
+
+`data pipelines`  
+`document processing`  
+`search`  
+`prediction`
 
 <br>
 
-<a href="https://github.com/namanipie/Academia">
-<b>→ explore</b>
+<a href="https://github.com/namanipie/ExamScope">
+→ view project
 </a>
 
 </td>
 
-<td width="50%" align="center">
+<td width="33%" valign="top">
 
-<h3>Experiments</h3>
+### MarkMint
 
-<p>
-Small projects, experiments and ideas
-that seemed worth building.
-</p>
+A project focused on making marks, academic data and results easier to understand.
+
+**focus**
+
+`web`  
+`data`  
+`visualization`
 
 <br>
 
-<a href="https://github.com/namanipie?tab=repositories">
-<b>→ repositories</b>
+<a href="https://github.com/namanipie/MarkMint">
+→ view project
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### Console
+
+A collection of experiments, tools and things I'm building while figuring out what deserves to become a real project.
+
+**focus**
+
+`software`  
+`experiments`  
+`learning`
+
+<br>
+
+<a href="https://github.com/namanipie/Console">
+→ view project
 </a>
 
 </td>
@@ -73,78 +95,69 @@ that seemed worth building.
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+<a href="https://namanipie.dev">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="85%">
+
+<br>
+
+**more about me → namanipie.dev**
+
+</a>
+
 </div>
 
-<br><br>
+<br>
 
 ---
 
 <div align="center">
 
-## github activity
+## tools i use
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,git,github,linux,vscode&theme=dark&perline=10">
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## contributions
 
 <br>
 
 <img
-  src="./profile/streak.svg"
-  alt="GitHub streak statistics"
-  width="500">
+src="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub contribution snake"
+width="90%">
 
 </div>
 
-<br><br>
-
----
-
-<div align="center">
-
-## contribution graph
-
 <br>
 
-<picture>
-
-<source
-  media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake-dark.svg">
-
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake.svg">
+<div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake.svg"
-  alt="GitHub contribution snake"
-  width="96%">
-
-</picture>
+src="https://raw.githubusercontent.com/namanipie/namanipie/output/github-contribution-grid-snake.svg"
+alt="GitHub contribution snake"
+width="90%"
+style="display:none;">
 
 </div>
-
-<br><br>
-
----
-
-<div align="center">
-
-## currently
 
 <br>
 
-<code>Java</code>
-&nbsp;·&nbsp;
-<code>DSA</code>
-&nbsp;·&nbsp;
-<code>software development</code>
-&nbsp;·&nbsp;
-<code>Linux</code>
-
-</div>
-
-<br><br>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F766E,50:312E81,100:111827&animation=fadeIn" width="100%"/>
+<sub>building in public · one commit at a time</sub>
 
 </div>
